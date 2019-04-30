@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NotchTest</string>
+    <string name="title_activity_main">NotchTest</string>
+    <string name="accessibility_service_description">Nascondi nelle app a shermo intero</string>
+    <string name="title_activity_settings">Impostazioni</string>
+    <string name="check">Controlla i permessi</string>
+    <string name="snooze_notif">Snooze notification grazie a iboalali <a href="https://github.com/iboalali/sysnotifsnooze/blob/master/LICENSE">LICENSE</a></string>
+    <string name="xda_page"><a href="https://forum.xda-developers.com/showpost.php?p=79021757">pagina xda</a></string>
+    <string name="col_picker">Color Picker grazie a duanhong169 <a href="https://github.com/duanhong169/ColorPicker/blob/master/LICENSE">LICENSE</a></string>
+    <string name="x_padding">margine sinistro</string>
+    <string name="y_padding">margine superiore</string>
+    <string name="icon_size">Dimensione Icone</string>
+    <string name="pro_version">VERSIONE PRO</string>
+    <string name="white">Bianco</string>
+    <string name="black">Nero</string>
+    <string name="color">Colore</string>
+    <string name="iconcolor_pro">Colore icone - solo Pro</string>
+    <string name="permanent_notifications">Con la versione pro hai il supporto alle notifiche permanenti delle app, come gli speed meter</string>
+    <string name="background_pro">Sfondo - solo Pro</string>
+    <string name="none">Nessuno</string>
+    <string name="circle">Cerchio</string>
+    <string name="square">Quadrato</string>
+    <string name="squircle">Smussato</string>
+    <string name="outline">Bordo</string>
+    <string name="auto_hide_on_fullscreen">Nascondi automaticamente nelle app a schermo intero</string>
+    <string name="write_storage_permission">Permesso salvataggio file</string>
+    <string name="go">Imposta</string>
+    <string name="accessibilty_service_enable">Abilità il servizio Accessibilità</string>
+    <string name="remove_battery_limitations_and_grant_boot_permission">Togli limitazioni della batteria e permetti l\'avvio automatico</string>
+    <string name="notification_access_enable">Abilita l\'accesso alle notifiche</string>
+    <string name="overlay_enable">Mostra sullo schermo</string>
+    <string name="purchase_thanks">Grazie per il tuo supporto! Adesso hai le funzioni pro!</string>
+    <string name="purchase_failed">Errore nell\'acquisto, riprova</string>
+    <string name="purchase_canceled">L\'utente ha cancellato l\'acquisto</string>
+    <string name="update">AGGIORNA</string>
+    <string name="credits">Crediti</string>
+    <string name="test">PROVA</string>
+    <string name="save">Salva</string>
+    <string name="cancel">Annulla</string>
+    <string name="privacy_policy">Politica Privacy</string>
+    <string name="select">Scegli</string>
+    <string name="faq">FAQ</string>
+    <string name="checkInternet">Devi essere connesso ad internet per abilitare le funzioni pro</string>
+    <string name="refunded">L\'ordine è stato rimborsato, quindi non è più disponibile</string>
+</resources>

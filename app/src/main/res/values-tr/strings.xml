@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NotchTest</string>
+    <string name="title_activity_main">NotchTest</string>
+    <string name="accessibility_service_description">Tam ekranda gizle</string>
+    <string name="title_activity_settings">Ayarlar</string>
+
+    <string name="check">İzinleri Kontrol Et</string>
+
+    <string name="snooze_notif">Bildirimi ertele (iboalali\'ye teşekkürler) <a href="https://github.com/iboalali/sysnotifsnooze/blob/master/LICENSE">LICENSE</a></string>
+    <string name="xda_page"><a href="https://forum.xda-developers.com/showpost.php?p=79021757">xda sayfa</a></string>
+    <string name="col_picker">Renk Seçici (duanhong169\'a teşekkürler) <a href="https://github.com/duanhong169/ColorPicker/blob/master/LICENSE">LICENSE</a></string>
+    <string name="y_padding">Üst boşluk</string>
+    <string name="icon_size">Simge boyutu</string>
+    <string name="pro_version">PRO VERSİYON</string>
+    <string name="white">Beyaz</string>
+    <string name="black">Siyah</string>
+    <string name="color">Renkli</string>
+    <string name="iconcolor_pro">Simge Rengi - Pro</string>
+    <string name="permanent_notifications">Pro versiyon speed meter gibi sabit bildirimleri destekler.</string>
+    <string name="background_pro">Arkaplan - Pro</string>
+    <string name="none">Hiçbiri</string>
+    <string name="circle">Daire</string>
+    <string name="square">Kare</string>
+    <string name="squircle">Köşeli Yuvarlak</string>
+    <string name="outline">Kenar çizgisi</string>
+    <string name="auto_hide_on_fullscreen">Tam Ekranda Otomatik Gizle</string>
+    <string name="write_storage_permission">Depolama erişimi izni</string>
+    <string name="go">Ayarla</string>
+    <string name="accessibilty_service_enable">Erişilebilirlik Servisini Etkinleştir</string>
+    <string name="remove_battery_limitations_and_grant_boot_permission">Pil tararrufunu kapat ve otomatik başlatmayı etkinleştir</string>
+    <string name="notification_access_enable">Bildirim erişimini etkinleştir</string>
+    <string name="overlay_enable"> Diğer uyg. üstünde gösterime izin ver</string>
+    <string name="purchase_thanks">Desteğiniz için teşekkürler! Pro versiyon özelliklerine sahipsiniz!</string>
+    <string name="purchase_failed">Ödemede hata oluştu, tekrar deneyin</string>
+    <string name="purchase_canceled">Kullanıcı ödemeyi iptal etti</string>
+    <string name="update">GÜNCELLE</string>
+    <string name="credits">Katkıda Bulunanlar</string>
+
+    <string name="test">TEST</string>
+    <string name="x_padding">Sol boşluk</string>
+    <string name="save">Kaydet</string>
+    <string name="select">Onayla</string>
+    <string name="cancel">İptal</string>
+    <string name="privacy_policy">Gizlilik Sözleşmesi</string>
+    <string name="faq">FAQ</string>
+    <string name="refunded">Sipariş iade edildi, bu yüzden artık mevcut değil.</string>
+    <string name="checkInternet">Profesyonel özellikleri etkinleştirmek için internete bağlı olmanız gerekir</string>
+</resources>

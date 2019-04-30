@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NotchTest</string>
+    <string name="title_activity_main">NotchTest</string>
+    <string name="accessibility_service_description">Cacher en plein écran</string>
+    <string name="title_activity_settings">Réglages</string>
+
+    <string name="check">Contrôle des autorisations</string>
+
+    <string name="snooze_notif">Snooze notification merci à iboalali <a href="https://github.com/iboalali/sysnotifsnooze/blob/master/LICENSE">LICENSE</a></string>
+    <string name="xda_page"><a href="https://forum.xda-developers.com/showpost.php?p=79021757">page XDA</a></string>
+    <string name="col_picker">Sélection de couleur merci à duanhong169 <a href="https://github.com/duanhong169/ColorPicker/blob/master/LICENSE">LICENSE</a></string>
+    <string name="y_padding">Ajustement vertical</string>
+    <string name="icon_size">Taille des icônes</string>
+    <string name="pro_version">PRO VERSION</string>
+    <string name="white">Blanc</string>
+    <string name="black">Noir</string>
+    <string name="color">Couleur</string>
+    <string name="iconcolor_pro">Couleur des icônes - PRO</string>
+    <string name="permanent_notifications">Avec la version PRO vous pouvez afficher des icones fixes de diverses applications telles que Speed Meters</string>
+    <string name="background_pro">Couleur de fond - PRO</string>
+    <string name="none">Aucun</string>
+    <string name="circle">Cercle</string>
+    <string name="square">Carré</string>
+    <string name="squircle">Carré arrondi</string>
+    <string name="outline">Contour</string>
+    <string name="auto_hide_on_fullscreen">Cacher automatiquement en plein écran</string>
+    <string name="write_storage_permission">Autorisation d\'écriture</string>
+    <string name="go">Selectionner</string>
+    <string name="accessibilty_service_enable">Service d\'accessibilité activé</string>
+    <string name="remove_battery_limitations_and_grant_boot_permission">Retirer la limitation d\'utilisation de la batterie et activer le lancement automatique au démarrage</string>
+    <string name="notification_access_enable">Accès aux notifications </string>
+    <string name="overlay_enable">Affichage en superposition </string>
+    <string name="purchase_thanks">Merci pour votre participation! Désormais vous avez les fonctionnalités PRO!</string>
+    <string name="purchase_failed">Erreur lors de l\'achat, veuillez réessayer</string>
+    <string name="purchase_canceled">L\'utilisateur a annulé la transaction</string>
+    <string name="update">Mettre à jour</string>
+    <string name="credits">Crédits</string>
+
+    <string name="test">TEST</string>
+    <string name="x_padding">Ajustement horizontal</string>
+    <string name="save">Sauvegarder</string>
+
+    <string name="cancel">Annuler</string>
+    <string name="select">Sèlectionner</string>
+    <string name="privacy_policy">Politique de confidentialitè</string>
+    <string name="faq">FAQ</string>
+    <string name="checkInternet">Vous devez être connecté à Internet pour activer les fonctionnalités pro</string>
+    <string name="refunded">La commande a été remboursée, elle n\'est donc plus disponible</string>
+</resources>

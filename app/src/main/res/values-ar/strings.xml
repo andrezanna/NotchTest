@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">اختبار النوتش</string>
+    <string name="title_activity_main">اختبار النوتش</string>
+    <string name="accessibility_service_description">الاخفاء في حالة الشاشة الكاملة</string>
+    <string name="title_activity_settings">الاعدادات</string>
+
+    <string name="check">التحقق من الصلاحيات</string>
+
+    <string name="snooze_notif">غفوة التنبيهات شكراً لـiboalali <a href="https://github.com/iboalali/sysnotifsnooze/blob/master/LICENSE">رخصة</a></string>
+<string name="xda_page"><a href="https://forum.xda-developers.com/showpost.php?p=79021757">صفحة xda</a></string>
+<string name="col_picker">منتقي الالوان شكراً لـ duanhong169 <a href="https://github.com/duanhong169/ColorPicker/blob/master/LICENSE">رخصة</a></string>
+<string name="y_padding">البعد العلوي</string>
+<string name="icon_size"> حجم الايقونة</string>
+<string name="pro_version"> النسخة الكاملة</string>
+<string name="white">أبيض</string>
+<string name="black">أسود</string>
+<string name="color">لون</string>
+<string name="iconcolor_pro">لون الايقونة – النسخة الكاملة </string>
+<string name="permanent_notifications">مع النسخة الكاملة يمكنك الحصول علي دعم البرامج ذات التنبيهات الثابتة مثل قياس سرعة الاتصال </string>
+<string name="background_pro"> الخلفية – النسخة الكاملة</string>
+<string name="none">لا شئ</string>
+<string name="circle">دائرة</string>
+<string name="square">مربع</string>
+<string name="squircle">ايقونة دائرية</string>
+<string name="outline">المحيط</string>
+<string name="auto_hide_on_fullscreen">الاخفاء التلقائي في حالة الشاشة الكاملة</string>
+<string name="write_storage_permission">اذن الكتابة في وحدة التخزين</string>
+<string name="go">ضبط</string>
+<string name="accessibilty_service_enable">تمكين خدمة الوصول </string>
+<string name="remove_battery_limitations_and_grant_boot_permission">إزالة قيود موفر الطاقة و منح اذن البدء عند التشغيل </string>
+<string name="notification_access_enable">تمكين الوصول للتنبيهات  </string>
+<string name="overlay_enable">تفعيل الغطاء</string>
+<string name="purchase_thanks">!نشكرك لدعمك....يمكنك الان الاستمتاع بالنسخة الكاملة </string>
+<string name="purchase_failed">حدث خطأ....برجاء المحاولة مرة اخري </string>
+<string name="purchase_canceled">قام المستخدم بالغاء عملية التحويل  </string>
+<string name="update">تحديث </string>
+<string name="credits">المساهمون في التطوير </string>
+
+<string name="test">اختبار</string>
+<string name="x_padding">البعد من اليسار</string>
+<string name="save">حفظ </string>
+<string name="select">تحديد</string>
+<string name="cancel">الغاء</string>
+<string name="privacy_policy">سياسة الخصوصية</string>
+<string name="refunded">تم استرداد قيمة الطلب لذلك لم يعد متوفراً </string>
+<string name="checkInternet">يجب ان تكون متصلاً بالانترنت لتفعيل النسخة الكاملة </string>
+<string name="faq">الاسئلة الشائعة </string>
+</resources>

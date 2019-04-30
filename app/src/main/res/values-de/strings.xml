@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NotchTest</string>
+
+    <string name="title_activity_main">NotchTest</string>
+
+    <string name="accessibility_service_description">verstecke in Vollbild-Applikationen</string>
+
+    <string name="title_activity_settings">Anlegen</string>
+
+    <string name="check">prüfe die Erlaubnisse</string>
+
+    <string name="snooze_notif">Snooze notification dank iboalali <a href="https://github.com/iboalali/sysnotifsnooze/blob/master/LICENSE">LICENSE</a></string>
+
+    <string name="xda_page"><a href="https://forum.xda-developers.com/showpost.php?p=79021757">Seite xda</a></string>
+
+    <string name="col_picker">Color Picker dank duanhong169 <a href="https://github.com/duanhong169/ColorPicker/blob/master/LICENSE">LICENSE</a></string>
+
+    <string name="x_padding">linker Rand</string>
+
+    <string name="y_padding">oberer Rand</string>
+
+    <string name="icon_size">Icon Größen</string>
+
+    <string name="pro_version">Pro-Version</string>
+
+    <string name="white">Weiß</string>
+
+    <string name="black">Schwarz</string>
+
+    <string name="color">Farbe</string>
+
+    <string name="iconcolor_pro">Icon Farben - nur Pro</string>
+
+    <string name="permanent_notifications">Mit Pro-Version hast du den Datenträger für permanente App-Benachrichtigungen, wie speed meter</string>
+
+    <string name="background_pro">Hintergrund - nur Pro</string>
+
+    <string name="none">Niemand</string>
+
+    <string name="circle">Kreis</string>
+
+    <string name="square">Quadrat</string>
+
+    <string name="squircle">Stumpf</string>
+
+    <string name="outline">Kante</string>
+
+    <string name="auto_hide_on_fullscreen">verstecke automatisch in Vollbild-Applikationen </string>
+
+    <string name="write_storage_permission"> Speichern von Dateien Erlaubnis</string>
+
+    <string name="go">leg an</string>
+
+    <string name="accessibilty_service_enable"> befähige den “Zugänglichkeit“ Dienst</string>
+
+    <string name="remove_battery_limitations_and_grant_boot_permission">nimm Batteriebegrenzungen ab und erlaube automatische Start</string>
+
+    <string name="notification_access_enable">befähige Zugriff auf Benachrichtigungen </string>
+
+    <string name="overlay_enable">zeig auf dem Bildschirm </string>
+
+    <string name="purchase_thanks">Dank für deinem Unterstützung! Jetzt hast du Pro-Funktionen!</string>
+
+    <string name="purchase_failed">Fehler im Kauf, wieder versuche</string>
+
+    <string name="purchase_canceled">Der Benutzer/Die Benutzerin hat den Kauf entfernt</string>
+
+    <string name="update">VERTAGE</string>
+
+    <string name="credits">Kredit</string>
+
+    <string name="test">VERSUCHE</string>
+
+    <string name="save">Speichere</string>
+
+    <string name="cancel">Brech ab</string>
+
+    <string name="privacy_policy"> Datenschutzerklärung </string>
+
+    <string name="select">Wähle</string>
+
+    <string name="faq">FAQ</string>
+
+    <string name="checkInternet">du musst mit Internet verbunden, um Pro-Funktionen zu befähigen</string>
+
+    <string name="refunded">Die Order wurde zurückerstattet, daher sie nicht mehr verfügbar ist</string>
+</resources>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NotchTest</string>
+    <string name="title_activity_main">NotchTest</string>
+    <string name="accessibility_service_description">Ukryj na ekranie</string>
+    <string name="title_activity_settings">Ustawienia</string>
+    <string name="check">Sprawdź Uprawnienia</string>
+    <string name="snooze_notif">Funkcja uśpienia powiadomień dzięki: iboalali <a href="https://github.com/iboalali/sysnotifsnooze/blob/master/LICENSE">Licencja</a></string>
+    <string name="xda_page"><a href="https://forum.xda-developers.com/showpost.php?p=79021757">xda page</a></string>
+    <string name="col_picker">Funkcja palety kolorów dzięki: duanhong169 <a href="https://github.com/duanhong169/ColorPicker/blob/master/LICENSE">Licencja</a></string>
+    <string name="y_padding">Położenie Y </string>
+    <string name="icon_size">Rozmiar ikony</string>
+    <string name="pro_version">WERSJA PRO</string>
+    <string name="white">Biały</string>
+    <string name="black">Czarny</string>
+    <string name="color">Kolor</string>
+    <string name="iconcolor_pro">Kolor Ikon - Pro</string>
+    <string name="permanent_notifications">Wersja pro wspiera aplikacje, które wyświetlają ciągłe powiadomienia, np. takie jak liczniki prędkości</string>
+    <string name="background_pro">Tło - Pro</string>
+    <string name="none">Brak</string>
+    <string name="circle">Okrąg</string>
+    <string name="square">Kwadrat</string>
+    <string name="squircle">Zaokrąglony Kwadrat</string>
+    <string name="outline">Obrys</string>
+    <string name="auto_hide_on_fullscreen">Auto-ukrywanie przy pełnym ekranie</string>
+    <string name="write_storage_permission">Uprawnienia do pamięci</string>
+    <string name="go">Zapisz</string>
+    <string name="accessibilty_service_enable">Usługa ułatwień dostępu</string>
+    <string name="remove_battery_limitations_and_grant_boot_permission">Usuń ograniczenia baterii i przyznaj uprawnienia do autostartu</string>
+    <string name="notification_access_enable">Dostęp do powiadomień</string>
+    <string name="overlay_enable">Włącz Nakładkę</string>
+    <string name="purchase_thanks">Dzięki za wsparcie! Od teraz masz dostęp do wszystkich możliwośći tej aplikacji w wersji PRO!</string>
+    <string name="purchase_failed">Błąd podczas dokonywania zakupu, powtórz!</string>
+    <string name="purchase_canceled">Tranzakcja anulowana przez użytkownika!</string>
+    <string name="update">AKTUALIZUJ</string>
+    <string name="credits">Informacje</string>
+    <string name="test">TEST</string>
+    <string name="x_padding">Położenie X</string>
+    <string name="save">Zapisz</string>
+    <string name="select">Wybierz</string>
+    <string name="cancel">Anuluj</string>
+    <string name="privacy_policy">Polityka Prywatności</string>
+    <string name="refunded">Zamówienie zostało zwrócone, więc nie jest już dostępne</string>
+    <string name="checkInternet">Musisz mieć połączenie z Internetem, aby włączyć funkcje pro</string>
+    <string name="faq">FAQ</string>
+</resources>
