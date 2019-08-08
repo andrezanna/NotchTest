@@ -1,23 +1,23 @@
 <resources>
-    <string name="app_name">NotchTest</string>
-    <string name="title_activity_main">NotchTest</string>
-    <string name="accessibility_service_description">Hide when in fullscreen</string>
+    <string name="app_name">Nots In Notch</string>
+    <string name="title_activity_main">Nots In Notch</string>
+    <string name="accessibility_service_description">Not Used</string>
     <string name="title_activity_settings">Settings</string>
 
     <string name="check">Check Permissions</string>
 
     <string name="snooze_notif">Snooze notification thanks to iboalali <a href="https://github.com/iboalali/sysnotifsnooze/blob/master/LICENSE">LICENSE</a></string>
     <string name="xda_page"><a href="https://forum.xda-developers.com/showpost.php?p=79021757">xda page</a></string>
-    <string name="col_picker">Color Picker thanks to duanhong169 <a href="https://github.com/duanhong169/ColorPicker/blob/master/LICENSE">LICENSE</a></string>
+    <string name="col_picker">Color Picker thanks to jaredrummled <a href="https://github.com/jaredrummler/ColorPicker/blob/master/LICENSE">LICENSE</a></string>
     <string name="y_padding">top padding</string>
     <string name="icon_size">Icon size</string>
     <string name="pro_version">PRO VERSION</string>
     <string name="white">White</string>
     <string name="black">Black</string>
     <string name="color">Color</string>
-    <string name="iconcolor_pro">IconColor - Pro</string>
+    <string name="iconcolor_pro">IconColor</string>
     <string name="permanent_notifications">With pro version you can have support to persistent notification apps, like speed meters</string>
-    <string name="background_pro">Background - Pro</string>
+    <string name="background_pro">Background</string>
     <string name="none">None</string>
     <string name="circle">Circle</string>
     <string name="square">Square</string>
@@ -28,8 +28,8 @@
     <string name="go">Set</string>
     <string name="accessibilty_service_enable">Accessibilty Service Enable</string>
     <string name="remove_battery_limitations_and_grant_boot_permission">Remove Battery Limitations and Grant Boot Permission</string>
-    <string name="notification_access_enable">Notification Access Enable</string>
-    <string name="overlay_enable">Overlay Enable</string>
+    <string name="notification_access_enable">Give the permission to gather Notifications, this is needed for proper work</string>
+    <string name="overlay_enable">Give the permission to show over other apps, this is needed for proper work</string>
     <string name="purchase_thanks">Thanks for your support! Now you have pro features!</string>
     <string name="purchase_failed">Error in the purchase, retry</string>
     <string name="purchase_canceled">User cancelled transaction</string>
@@ -45,4 +45,10 @@
     <string name="refunded">The order has been refunded, so it is no more available</string>
     <string name="checkInternet">You must be connected to the internet, to enable pro features</string>
     <string name="faq">FAQ</string>
+    <string name="title_activity_hide">Hide</string>
+    <string name="app_intro">App Intro thanks to many <a href="https://github.com/AppIntro/AppIntro/blob/master/LICENSE">LICENSE</a></string>
+    <string name="gif_images">Gif Images thanks to felipecsl <a href="https://github.com/felipecsl/GifImageView/blob/master/LICENSE">LICENSE</a></string>
+    <string name="navigation">Space Navigation thanks to armcha <a href="https://github.com/armcha/Space-Navigation-View#license">LICENSE</a></string>
+
+
 </resources>
