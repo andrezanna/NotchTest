@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">NotchTest</string>
-    <string name="title_activity_main">NotchTest</string>
+    <string name="app_name">Nots In Notch</string>
+    <string name="title_activity_main">Nots In Notch</string>
     <string name="accessibility_service_description">Nascondi nelle app a shermo intero</string>
     <string name="title_activity_settings">Impostazioni</string>
     <string name="check">Controlla i permessi</string>
     <string name="snooze_notif">Snooze notification grazie a iboalali <a href="https://github.com/iboalali/sysnotifsnooze/blob/master/LICENSE">LICENSE</a></string>
     <string name="xda_page"><a href="https://forum.xda-developers.com/showpost.php?p=79021757">pagina xda</a></string>
-    <string name="col_picker">Color Picker grazie a duanhong169 <a href="https://github.com/duanhong169/ColorPicker/blob/master/LICENSE">LICENSE</a></string>
+    <string name="col_picker">Color Picker grazie a jaredrummled <a href="https://github.com/duanhong169/ColorPicker/blob/master/LICENSE">LICENSE</a></string>
     <string name="x_padding">margine sinistro</string>
     <string name="y_padding">margine superiore</string>
     <string name="icon_size">Dimensione Icone</string>
@@ -15,9 +15,9 @@
     <string name="white">Bianco</string>
     <string name="black">Nero</string>
     <string name="color">Colore</string>
-    <string name="iconcolor_pro">Colore icone - solo Pro</string>
+    <string name="iconcolor_pro">Colore icone</string>
     <string name="permanent_notifications">Con la versione pro hai il supporto alle notifiche permanenti delle app, come gli speed meter</string>
-    <string name="background_pro">Sfondo - solo Pro</string>
+    <string name="background_pro">Sfondo</string>
     <string name="none">Nessuno</string>
     <string name="circle">Cerchio</string>
     <string name="square">Quadrato</string>
@@ -29,7 +29,7 @@
     <string name="accessibilty_service_enable">Abilità il servizio Accessibilità</string>
     <string name="remove_battery_limitations_and_grant_boot_permission">Togli limitazioni della batteria e permetti l\'avvio automatico</string>
     <string name="notification_access_enable">Abilita l\'accesso alle notifiche</string>
-    <string name="overlay_enable">Mostra sullo schermo</string>
+    <string name="overlay_enable">Concedi la visualizzazione sopra le altre app, necessario per il corretto funzionamento</string>
     <string name="purchase_thanks">Grazie per il tuo supporto! Adesso hai le funzioni pro!</string>
     <string name="purchase_failed">Errore nell\'acquisto, riprova</string>
     <string name="purchase_canceled">L\'utente ha cancellato l\'acquisto</string>
@@ -43,4 +43,43 @@
     <string name="faq">FAQ</string>
     <string name="checkInternet">Devi essere connesso ad internet per abilitare le funzioni pro</string>
     <string name="refunded">L\'ordine è stato rimborsato, quindi non è più disponibile</string>
+    <string name="app_intro">AppIntro grazie a molti <a href="https://github.com/AppIntro/AppIntro/blob/master/LICENSE">LICENZA</a></string>
+    <string name="gif_images">GIF grazie a felipecsl <a href="https://github.com/felipecsl/GifImageView/blob/master/LICENSE">LICENSE</a></string>
+    <string name="navigation">Space Navigation grazie a armcha <a href="https://github.com/armcha/Space-Navigation-View#license">LICENSE</a></string>
+    <string name="title_activity_hide">Nascondi</string>
+    <string name="align">Allineamento</string>
+    <string name="bluetooth">Bluetooth</string>
+    <string name="collapse_per_package">1 Icona Per App</string>
+    <string name="colors_and_shape">Colori e Forma</string>
+    <string name="do_not_disturb">Non Disturbare</string>
+    <string name="gestures">Navigazione a Gesti</string>
+    <string name="gps">GPS</string>
+    <string name="hide_notifications">Nascondi notifiche</string>
+    <string name="hiding_setup">Nascondi</string>
+    <string name="horizontal">Orizzontale</string>
+    <string name="horizontal_orientation">Orientamento Orizzontale</string>
+    <string name="horizontal_padding">Margine Orizzontale</string>
+    <string name="hotspot">Hotspot</string>
+    <string name="icon_number">Numero di Icone</string>
+    <string name="left">Sinistra</string>
+    <string name="natural_colors">Colori Originali</string>
+    <string name="navigation_bar">Barra Di Navigazione</string>
+    <string name="other_setup">Altre Impostazioni</string>
+    <string name="permission_needed">Permessi Necessari</string>
+    <string name="portrait_orientation">Orientamento Verticale</string>
+    <string name="remove_notchtest_vibration_and_allow_on_lockscreen">Rimuovi la vibrazione per Nots In Notch e permetti la comparsa sulla schermata di blocco</string>
+    <string name="right">Destra</string>
+    <string name="right_side">Lato Destro</string>
+    <string name="right_side_setup">Impostazioni Lato Destro</string>
+    <string name="show">Mostra</string>
+    <string name="show_more_icons">Mostra Più Icone</string>
+    <string name="show_on_lockscreen_early_beta">Mostra sulla schermata di blocco (Beta)</string>
+    <string name="show_system_info">Mostra Info di Sistema</string>
+    <string name="system_icons">Icone di Sistema</string>
+    <string name="use_horizontal_after_rotation">Usa impostazioni orizzontali</string>
+    <string name="use_right_side">Usa il lato destro</string>
+    <string name="vertical">Verticale</string>
+    <string name="which_navigation_type_do_you_use_used_for_fullscreen_hide">Quaale metodo di navigazione usi? Utilizzata per nascondere a schermo intero</string>
+    <string name="wi_fi">Wi-Fi</string>
+    <string name="you_should_remove_screen_auto_on_when_receiving_notifications">Disattiva l\'auto accensione dello schermo alla ricezione di una notifica</string>
 </resources>
