@@ -49,6 +49,41 @@
     <string name="app_intro">App Intro thanks to many <a href="https://github.com/AppIntro/AppIntro/blob/master/LICENSE">LICENSE</a></string>
     <string name="gif_images">Gif Images thanks to felipecsl <a href="https://github.com/felipecsl/GifImageView/blob/master/LICENSE">LICENSE</a></string>
     <string name="navigation">Space Navigation thanks to armcha <a href="https://github.com/armcha/Space-Navigation-View#license">LICENSE</a></string>
+    <string name="right_side_setup">Right Side Setup</string>
+    <string name="use_right_side">Use Right Side</string>
+    <string name="system_icons">System Icons</string>
+    <string name="wi_fi">Wi-Fi</string>
+    <string name="hotspot">Hotspot</string>
+    <string name="gps">GPS</string>
+    <string name="bluetooth">Bluetooth</string>
+    <string name="do_not_disturb">Do Not Disturb</string>
+    <string name="show_system_info">Show System Info</string>
+    <string name="show_more_icons">Show More Icons</string>
+    <string name="other_setup">Other Setup</string>
+    <string name="use_horizontal_after_rotation">Use Horizontal after rotation</string>
+    <string name="hide_notifications">Hide notifications</string>
+    <string name="show_on_lockscreen_early_beta">Show on Lockscreen (Beta)</string>
+    <string name="show">Show</string>
+    <string name="you_should_remove_screen_auto_on_when_receiving_notifications">You should remove screen auto on, when receiving notifications</string>
+    <string name="remove_notchtest_vibration_and_allow_on_lockscreen">Remove Nots In Notch vibration and allow on lockscreen</string>
+    <string name="collapse_per_package">Collapse per package</string>
+    <string name="gestures">Gestures</string>
+    <string name="navigation_bar">Navigation Bar</string>
+    <string name="natural_colors">Original Colors</string>
+    <string name="hiding_setup">Hiding Setup</string>
+    <string name="which_navigation_type_do_you_use_used_for_fullscreen_hide">Which navigation type do you use? Used for fullscreen hide</string>
+    <string name="colors_and_shape">Colors and Shape</string>
+    <string name="portrait_orientation">Portrait orientation</string>
+    <string name="icon_number">Icon Number</string>
+    <string name="horizontal_orientation">Horizontal orientation</string>
+    <string name="horizontal">Horizontal</string>
+    <string name="vertical">Vertical</string>
+    <string name="right_side">Right side</string>
+    <string name="align">Align</string>
+    <string name="left">Left</string>
+    <string name="right">Right</string>
+    <string name="horizontal_padding">Horizontal padding</string>
+    <string name="permission_needed">Permission Needed</string>
 
 
 </resources>
