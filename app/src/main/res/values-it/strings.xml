@@ -82,4 +82,5 @@
     <string name="which_navigation_type_do_you_use_used_for_fullscreen_hide">Quaale metodo di navigazione usi? Utilizzata per nascondere a schermo intero</string>
     <string name="wi_fi">Wi-Fi</string>
     <string name="you_should_remove_screen_auto_on_when_receiving_notifications">Disattiva l\'auto accensione dello schermo alla ricezione di una notifica</string>
+    <string name="vpn">VPN</string>
 </resources>
