@@ -84,6 +84,7 @@
     <string name="right">Right</string>
     <string name="horizontal_padding">Horizontal padding</string>
     <string name="permission_needed">Permission Needed</string>
+    <string name="vpn">VPN</string>
 
 
 </resources>
