@@ -64,9 +64,8 @@
     <string name="hide_notifications">Hide notifications</string>
     <string name="show_on_lockscreen_early_beta">Show on Lockscreen (Beta)</string>
     <string name="show">Show</string>
-    <string name="you_should_remove_screen_auto_on_when_receiving_notifications">You should remove screen auto on, when receiving notifications</string>
-    <string name="remove_notchtest_vibration_and_allow_on_lockscreen">Remove Nots In Notch vibration and allow on lockscreen</string>
-    <string name="collapse_per_package">Collapse per package</string>
+    <string name="remove_notchtest_vibration_and_allow_on_lockscreen">Remove Nots In Notch vibration and allow on lockscreen,you can enable led and autoscreen on</string>
+    <string name="collapse_per_package">Only 1 icon per app</string>
     <string name="gestures">Gestures</string>
     <string name="navigation_bar">Navigation Bar</string>
     <string name="natural_colors">Original Colors</string>
@@ -85,6 +84,9 @@
     <string name="horizontal_padding">Horizontal padding</string>
     <string name="permission_needed">Permission Needed</string>
     <string name="vpn">VPN</string>
+    <string name="clean_ram">Clean RAM</string>
+    <string name="swipe_manually">Swipe Manually</string>
+    <string name="lock_in_ram">Lock in RAM</string>
 
 
 </resources>
