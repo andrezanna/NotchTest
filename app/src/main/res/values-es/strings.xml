@@ -1,84 +1,89 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-
-    <string name="app_name">NotchTest</string>
-
-    <string name="title_activity_main">NotchTest</string>
-
-    <string name="accessibility_service_description">Oculta a pantalla completa</string>
-
+    <string name="app_name">Nots In Notch</string>
+    <string name="title_activity_main">Nots In Notch</string>
+    <string name="accessibility_service_description">Ocultar a pantalla completa</string>
     <string name="title_activity_settings">Ajustes</string>
-
-    <string name="check">Comprueba permisos</string>
-
-    <string name="snooze_notif">Notificaciones de Snooze gracias a iboalali <a href="https://github.com/iboalali/sysnotifsnooze/blob/master/LICENSE">LICENSE</a></string>
-
-    <string name="xda_page"><a href="https://forum.xda-developers.com/showpost.php?p=79021757">xda page</a></string>
-
-    <string name="col_picker">Selector de color gracias a duanhong169 <a href="https://github.com/duanhong169/ColorPicker/blob/master/LICENSE">LICENSE</a></string>
-
+    <string name="check">Comprobar permisos</string>
+    <string name="snooze_notif">Notificaciones de Snooze a iboalali <a href="https://github.com/iboalali/sysnotifsnooze/blob/master/LICENSE">LICENSE</a></string>
+    <string name="xda_page"><a href="https://forum.xda-developers.com/showpost.php?p=79021757">Página de xda</a></string>
+    <string name="col_picker">Selector de color gracias a jaredrummled <a href="https://github.com/duanhong169/ColorPicker/blob/master/LICENSE">LICENSE</a></string>
     <string name="y_padding">Relleno superior</string>
-
-    <string name="icon_size">Tamaño iconos</string>
-
+    <string name="icon_size">Tamaño de iconos</string>
     <string name="pro_version">VERSION PRO</string>
-
     <string name="white">Blanco</string>
-
     <string name="black">Negro</string>
-
-    <string name="color">Color</string>
-
-    <string name="iconcolor_pro">Color icono - Pro</string>
-
+    <string name="color">Colores</string>
+    <string name="iconcolor_pro">Color de icono</string>
     <string name="permanent_notifications">Con la versión PRO tendrás soporte para notificaciones de aplicaciones persistentes, como medidores de velocidad</string>
-
-    <string name="background_pro">Fondo de patalla - Pro</string>
-
-    <string name="none">Sin</string>
-
+    <string name="background_pro">Tipo de fondo</string>
+    <string name="none">Ninguno</string>
     <string name="circle">Circulo</string>
-
     <string name="square">Cuadrado</string>
-
-    <string name="squircle">Cuadracírculo</string>
-
+    <string name="squircle">Cuadrancírculo</string>
     <string name="outline">Línea exterior</string>
-
     <string name="auto_hide_on_fullscreen">Auto-oculta a pantalla completa</string>
-
-    <string name="write_storage_permission">Permiso de escritura en almacenamiento interno</string>
-
-    <string name="go">Aplica</string>
-
-    <string name="accessibilty_service_enable">Servicio de accesibilidad activado</string>
-
-    <string name="remove_battery_limitations_and_grant_boot_permission">Quita limitaciones de batería y concede permisos de arranque</string>
-
+    <string name="write_storage_permission">Permiso de escritura en Almacenamiento Interno</string>
+    <string name="go">Aplicar</string>
+    <string name="accessibilty_service_enable">Activar servicio de accesibilidad</string>
+    <string name="remove_battery_limitations_and_grant_boot_permission">Quita limitaciones de batería y concede permisos de Inicio Automático</string>
     <string name="notification_access_enable">Habilita acceso a notificaciones</string>
-
-    <string name="overlay_enable">Habilita sobreescribir</string>
-
-    <string name="purchase_thanks">Gracias por tu soporte! Ahora tienes características Pro!</string>
-
+    <string name="overlay_enable">Activar mostrar sobre otras apps, es necesario para el correcto funcionamiento</string>
+    <string name="purchase_thanks">Gracias por tu soporte! Ahora tienes caracteristicas PRO!</string>
     <string name="purchase_failed">Error en la compra, reintentalo</string>
-
-    <string name="purchase_canceled">Transaccion cancelada por el usuario</string>
-
-    <string name="update">ACTUALIZACION</string>
-
+    <string name="purchase_canceled">Compra cancelada</string>
+    <string name="update">ACTUALIZACIÓN</string>
     <string name="credits">Créditos</string>
-
     <string name="test">PRUEBA</string>
-
-    <string name="x_padding">relleno izquierda</string>
-
-    <string name="save">Graba</string>
-    <string name="privacy_policy">Política de privacidad</string>
+    <string name="x_padding">Relleno izquierdo</string>												  
+    <string name="save">Guardar</string>
     <string name="select">Seleccionar</string>
-    <string name="cancel">cancelar</string>
-    <string name="faq">FAQ</string>
-    <string name="checkInternet">Debe estar conectado a Internet para habilitar las funciones pro</string>
+    <string name="cancel">Cancelar</string>
+    <string name="privacy_policy">Politica de Privacidad</string>
     <string name="refunded">El pedido ha sido devuelto, por lo que ya no está disponible.</string>
-
+    <string name="checkInternet">Debe estar conectado a Internet para habilitar las funciones pro</string>
+	<string name="faq">FAQ</string>
+    <string name="title_activity_hide">Ocultar</string>
+    <string name="app_intro">AppIntro gracias a many <a href="https://github.com/AppIntro/AppIntro/blob/master/LICENSE">LICENCIA</a></string>
+    <string name="gif_images">GIF gracias a felipecsl <a href="https://github.com/felipecsl/GifImageView/blob/master/LICENSE">LICENCIA</a></string>
+    <string name="navigation">Space Navigation gracias a armcha <a href="https://github.com/armcha/Space-Navigation-View#license">LICENCIA</a></string>
+    <string name="right_side_setup">Configuración del lado derecho</string>
+    <string name="use_right_side">Usar lado derecho</string>
+    <string name="system_icons">Iconos del Sistema</string>
+	<string name="wi_fi">Wi-Fi</string>
+    <string name="hotspot">Hotspot</string>	
+    <string name="gps">GPS</string>
+	<string name="bluetooth">Bluetooth</string>
+    <string name="do_not_disturb">No molestar</string>
+    <string name="show_system_info">Mostra Info del Sistema</string>
+    <string name="show_more_icons">Mostrar mas Iconos</string>
+    <string name="other_setup">Otros Ajustes</string>
+    <string name="use_horizontal_after_rotation">Usar configuracion horizontal despues de rotar</string>
+    <string name="hide_notifications">Ocultar notificaciones</string>
+    <string name="show_on_lockscreen_early_beta">Mostrar en pantalla de bloqueo (Beta)</string>
+    <string name="show">Mostrar</string>
+    <string name="remove_notchtest_vibration_and_allow_on_lockscreen">Eliminar la vibrazion de Nots In Notch y permite en pantalla de bloqueo</string>
+    <string name="collapse_per_package">1 Icono por App</string>
+    <string name="gestures">Gestos</string>
+    <string name="navigation_bar">Barra De Navegación</string>
+    <string name="natural_colors">Colores Originales</string>
+    <string name="hiding_setup">Ocultar ajustes</string>
+    <string name="which_navigation_type_do_you_use_used_for_fullscreen_hide">Que tipo de navegación usas? Se usa para ocultar en pantalla completa</string>
+    <string name="colors_and_shape">Colores y Formas</string>
+    <string name="portrait_orientation">Orientación Vertical</string>
+    <string name="icon_number">Número de Iconos</string>
+    <string name="horizontal_orientation">Orientación Horizontal</string>
+    <string name="horizontal">Horizontal</string>
+    <string name="vertical">Verticale</string>
+    <string name="right_side">Lado derecho</string>
+    <string name="align">Alinear</string>
+    <string name="left">Izquierda</string>
+    <string name="right">Derecha</string>
+    <string name="horizontal_padding">Relleno Horizontal</string>
+    <string name="permission_needed">Permiso Necesario</string>
+    <string name="vpn">VPN</string>
+	<string name="clean_ram">Limpiar RAM</string>
+    <string name="swipe_manually">Desliza Manualmente</string>
+    <string name="lock_in_ram">Bloquea en RAM</string>
+    <string name="you_should_remove_screen_auto_on_when_receiving_notifications">Apaga la pantalla automáticamente después de una notificación</string>
 </resources>
