@@ -1,88 +1,83 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">NotchTest</string>
-
-    <string name="title_activity_main">NotchTest</string>
-
-    <string name="accessibility_service_description">Icons bei Vollbild-Apps verstecken</string>
-
-    <string name="title_activity_settings">Einstellungen</string>
-
+    <string name="app_name">Nots In Notch</string>
+    <string name="title_activity_main">Nots In Notch</string>
+    <string name="accessibility_service_description">Nicht verwendet</string>
     <string name="check">Berechtigungen prüfen</string>
-
-    <string name="snooze_notif">Snooze notification von iboalali <a href="https://github.com/iboalali/sysnotifsnooze/blob/master/LICENSE">LICENSE</a></string>
-
-    <string name="xda_page"><a href="https://forum.xda-developers.com/showpost.php?p=79021757">Auf xda anzeigen</a></string>
-
-    <string name="col_picker">Color Picker von duanhong169 <a href="https://github.com/duanhong169/ColorPicker/blob/master/LICENSE">LICENSE</a></string>
-
-    <string name="x_padding">Abstand links</string>
-
+    <string name="snooze_notif">Schlummer-Benachrichtigung: Dank an Balali <a href="https://github.com/iboalali/sysnotifsnooze/blob/master/LICENSE">LICENSE</a></string>
+    <string name="xda_page"><a href="https://forum.xda-developers.com/showpost.php?p=79021757">xda page</a></string>
+    <string name="col_picker">Farbwähler: Dank an duanhong169 <a href="https://github.com/jaredrummler/ColorPicker/blob/master/LICENSE">LICENSE</a></string>
     <string name="y_padding">Abstand oben</string>
-
-    <string name="icon_size">Icon Größe</string>
-
+    <string name="icon_size">Symbolgröße</string>
     <string name="pro_version">PRO VERSION</string>
-
-    <string name="white">Weiß</string>
-
-    <string name="black">Schwarz</string>
-
-    <string name="color">Farbe</string>
-
-    <string name="iconcolor_pro">Icon Farben (nur Pro)</string>
-
-    <string name="permanent_notifications">Mit der Pro-Version ist es möglich permanente Benachrichtigungen anzuzeigen, wie etwa von Speed Metern</string>
-
-    <string name="background_pro">Hintergrund (nur Pro)</string>
-
-    <string name="none">Keine</string>
-
+    <string name="iconcolor_pro">Symbolfarbe - Pro</string>
+    <string name="background_pro">Hintergrund - Pro</string>
+    <string name="none">Nichts</string>
     <string name="circle">Kreis</string>
-
     <string name="square">Quadrat</string>
-
-    <string name="squircle">Squircle</string>
-
-    <string name="outline">Umrandung</string>
-
-    <string name="auto_hide_on_fullscreen">Icons bei Vollbild-Apps verstecken</string>
-
-    <string name="write_storage_permission">Speicherzugriff erlauben</string>
-
-    <string name="go">Weiter</string>
-
-    <string name="accessibilty_service_enable">Bedienungshilfen aktivieren</string>
-
-    <string name="remove_battery_limitations_and_grant_boot_permission">Energiesparoptionen deaktivieren und Autostart aktivieren</string>
-
+    <string name="squircle">Abgerundetes Quadrat</string>
+    <string name="outline">Umriss</string>
+    <string name="auto_hide_on_fullscreen">Im Vollbildmodus automatisch ausblenden</string>
+    <string name="write_storage_permission">Speichererlaubnis</string>
+    <string name="go">Fertig</string>
+    <string name="remove_battery_limitations_and_grant_boot_permission">Batterieeinschränkungen aufheben und Autostartberechtigung erteilen</string>
     <string name="notification_access_enable">Benachrichtigungszugriff aktivieren</string>
-
-    <string name="overlay_enable">Über anderen Apps einblenden</string>
-
-    <string name="purchase_thanks">Danke für deine Unterstützung! Pro-Funktionen wurden freigeschaltet!</string>
-
-    <string name="purchase_failed">Fehler beim Kaufvorgang, bitte erneut versuchen</string>
-
-    <string name="purchase_canceled">Der Kaufvorgang wurde abgebrochen</string>
-
-    <string name="update">UPDATE</string>
-
-    <string name="credits">Über</string>
-
+    <string name="overlay_enable">Appüberlagerung aktivieren, dies ist zur Funktion nötig</string>
+    <string name="purchase_thanks">Danke für deine Unterstützung! Pro-Funktionen sind jetzt freigeschaltet!</string>
+    <string name="purchase_failed">Fehler beim Kauf, bitte erneut versuchen.</string>
+    <string name="purchase_canceled">Der Benutzer hat den Bezahlvorgang abgebrochen.</string>
+    <string name="credits">Mitwirkende</string>
     <string name="test">TEST</string>
-
-    <string name="save">Speichern</string>
-
-    <string name="cancel">Abbrechen</string>
-
-    <string name="privacy_policy">Datenschutzerklärung</string>
-
+    <string name="x_padding">Abstand links</string>
     <string name="select">Auswählen</string>
-
+    <string name="privacy_policy">Datenschutzbestimmungen</string>
+    <string name="refunded">Die Bestellung wurde erstattet und ist daher nicht mehr verfügbar.</string>
     <string name="faq">FAQ</string>
-
-    <string name="checkInternet">Du musst mit dem Internet verbunden sein, um Pro-Funktionen zu aktivieren</string>
-
-    <string name="refunded">Der Kauf wurde bereits zurückerstattet und ist daher nicht mehr verfügbar</string>
+    <string name="title_activity_hide">Verstecken</string>
+    <string name="app_intro">App Intro: Dank an many <a href="https://github.com/AppIntro/AppIntro/blob/master/LICENSE">LICENSE</a></string>
+    <string name="gif_images">Gif Bilder: Dank an felipecsl <a href="https://github.com/felipecsl/GifImageView/blob/master/LICENSE">LICENSE</a></string>
+    <string name="navigation">Navigation: Dank an armcha <a href="https://github.com/armcha/Space-Navigation-View#license">LICENSE</a></string>
+    <string name="right_side_setup">Rechte Seite einrichten</string>
+    <string name="use_right_side">Verwende rechte Seite</string>
+    <string name="system_icons">Systemsymbole</string>
+    <string name="wi_fi">Wi-Fi</string>
+    <string name="hotspot">Hotspot</string>
+    <string name="gps">GPS</string>
+    <string name="bluetooth">Bluetooth</string>
+    <string name="do_not_disturb">Nicht Stören</string>
+    <string name="show_system_info">Zeige System Info</string>
+    <string name="show_more_icons">Zeige mehr Symbole</string>
+    <string name="other_setup">andere Einstellungen</string>
+    <string name="use_horizontal_after_rotation">Verwende horizontale Ansicht nach Drehung</string>
+    <string name="hide_notifications">Verstecke Benachrichtigungen</string>
+    <string name="show_on_lockscreen_early_beta">Zeige auf Sperrbildschirm (Beta)</string>
+    <string name="show">Zeigen</string>
+    <!--<string name="you_should_remove_screen_auto_on_when_receiving_notifications"> Bitte automatische Bildschirmeinschaltung bei Benachrichtigungen deaktivieren.</string>-->
+    <string name="remove_notchtest_vibration_and_allow_on_lockscreen">Entferne Nots In Notch Vibration und erlaube Sperrbildschirmansicht</string>
+    <string name="collapse_per_package">Je App in einem Symbol zusammenfassen</string>
+    <string name="gestures">Gesten</string>
+    <string name="navigation_bar">Navigationsleiste</string>
+    <string name="natural_colors">Original Farben</string>
+    <string name="hiding_setup">Verstecke Einstellungen</string>
+    <string name="which_navigation_type_do_you_use_used_for_fullscreen_hide">Welcher Navigationstyp wird verwendet? Wird für das Ausblenden im Vollbildmodus verwendet.</string>
+    <string name="colors_and_shape">Farben und Formen</string>
+    <string name="portrait_orientation">Hochformat</string>
+    <string name="icon_number">Symbolnummer</string>
+    <string name="horizontal_orientation">Horizontale Ausrichtung</string>
+    <string name="horizontal">Horizontal</string>
+    <string name="vertical">Vertikal</string>
+    <string name="right_side">Rechte Seite</string>
+    <string name="align">Ausrichten</string>
+    <string name="left">Links</string>
+    <string name="right">Rechts</string>
+    <string name="horizontal_padding">Horizontaler Abstand</string>
+    <string name="permission_needed">Berechtigung benötigt</string>
+    <string name="vpn">VPN</string>
+    <string name="pro">PRO</string>
+    <string name="visual">AUSSEHEN</string>
+    <string name="settings">FUNKTIONEN</string>
+    <string name="position">POSITION</string>
+    <string name="swipe_manually">Manuell Wischen</string>
+    <string name="lock_in_ram">Sperren in Ram</string>
+    <string name="clean_ram">Sauberer RAM</string>
 </resources>

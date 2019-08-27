@@ -3,7 +3,6 @@
     <string name="app_name">Nots In Notch</string>
     <string name="title_activity_main">Nots In Notch</string>
     <string name="accessibility_service_description">Nascondi nelle app a shermo intero</string>
-    <string name="title_activity_settings">Impostazioni</string>
     <string name="check">Controlla i permessi</string>
     <string name="snooze_notif">Snooze notification grazie a iboalali <a href="https://github.com/iboalali/sysnotifsnooze/blob/master/LICENSE">LICENSE</a></string>
     <string name="xda_page"><a href="https://forum.xda-developers.com/showpost.php?p=79021757">pagina xda</a></string>
@@ -12,11 +11,7 @@
     <string name="y_padding">margine superiore</string>
     <string name="icon_size">Dimensione Icone</string>
     <string name="pro_version">VERSIONE PRO</string>
-    <string name="white">Bianco</string>
-    <string name="black">Nero</string>
-    <string name="color">Colore</string>
     <string name="iconcolor_pro">Colore icone</string>
-    <string name="permanent_notifications">Con la versione pro hai il supporto alle notifiche permanenti delle app, come gli speed meter</string>
     <string name="background_pro">Sfondo</string>
     <string name="none">Nessuno</string>
     <string name="circle">Cerchio</string>
@@ -26,22 +21,17 @@
     <string name="auto_hide_on_fullscreen">Nascondi automaticamente nelle app a schermo intero</string>
     <string name="write_storage_permission">Permesso salvataggio file</string>
     <string name="go">Imposta</string>
-    <string name="accessibilty_service_enable">Abilità il servizio Accessibilità</string>
     <string name="remove_battery_limitations_and_grant_boot_permission">Togli limitazioni della batteria e permetti l\'avvio automatico</string>
     <string name="notification_access_enable">Abilita l\'accesso alle notifiche</string>
     <string name="overlay_enable">Concedi la visualizzazione sopra le altre app, necessario per il corretto funzionamento</string>
     <string name="purchase_thanks">Grazie per il tuo supporto! Adesso hai le funzioni pro!</string>
     <string name="purchase_failed">Errore nell\'acquisto, riprova</string>
     <string name="purchase_canceled">L\'utente ha cancellato l\'acquisto</string>
-    <string name="update">AGGIORNA</string>
     <string name="credits">Crediti</string>
     <string name="test">PROVA</string>
-    <string name="save">Salva</string>
-    <string name="cancel">Annulla</string>
     <string name="privacy_policy">Politica Privacy</string>
     <string name="select">Scegli</string>
     <string name="faq">FAQ</string>
-    <string name="checkInternet">Devi essere connesso ad internet per abilitare le funzioni pro</string>
     <string name="refunded">L\'ordine è stato rimborsato, quindi non è più disponibile</string>
     <string name="app_intro">AppIntro grazie a molti <a href="https://github.com/AppIntro/AppIntro/blob/master/LICENSE">LICENZA</a></string>
     <string name="gif_images">GIF grazie a felipecsl <a href="https://github.com/felipecsl/GifImageView/blob/master/LICENSE">LICENSE</a></string>
@@ -67,7 +57,7 @@
     <string name="other_setup">Altre Impostazioni</string>
     <string name="permission_needed">Permessi Necessari</string>
     <string name="portrait_orientation">Orientamento Verticale</string>
-    <string name="remove_notchtest_vibration_and_allow_on_lockscreen">Rimuovi la vibrazione per Nots In Notch e permetti la comparsa sulla schermata di blocco</string>
+    <string name="remove_notchtest_vibration_and_allow_on_lockscreen">Rimuovi la vibrazione per Nots In Notch e permetti la comparsa sulla schermata di blocco, puoi abilitare il led e l\'accensione automatica alla ricezione delle notifiche</string>
     <string name="right">Destra</string>
     <string name="right_side">Lato Destro</string>
     <string name="right_side_setup">Impostazioni Lato Destro</string>
@@ -81,6 +71,13 @@
     <string name="vertical">Verticale</string>
     <string name="which_navigation_type_do_you_use_used_for_fullscreen_hide">Quaale metodo di navigazione usi? Utilizzata per nascondere a schermo intero</string>
     <string name="wi_fi">Wi-Fi</string>
-    <string name="you_should_remove_screen_auto_on_when_receiving_notifications">Disattiva l\'auto accensione dello schermo alla ricezione di una notifica</string>
+    <!--<string name="you_should_remove_screen_auto_on_when_receiving_notifications">Disattiva l\'auto accensione dello schermo alla ricezione di una notifica</string>-->
     <string name="vpn">VPN</string>
+    <string name="clean_ram">Pulisci la RAM</string>
+    <string name="swipe_manually">Rimuovi manualmente</string>
+    <string name="lock_in_ram">Fissa in RAM</string>
+    <string name="position">POSIZIONE</string>
+    <string name="pro">PRO</string>
+    <string name="settings">FUNZIONI</string>
+    <string name="visual">ASPETTO</string>
 </resources>
